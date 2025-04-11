@@ -12,9 +12,11 @@ This repository provides comprehensive interview preparation resources for vario
 
 ---
 
-## 👉 Land your dream job with an AI-powered interview co-pilot 👈
+## 👉 Land your dream job with an AI-powered mock interview 👈
 
-![AMA Interview Logo](./assets/Logo.svg)
+<p align="center">
+  <img src="./assets/Logo.svg" alt="AMA Interview Logo" width="400">
+</p>
 
 AMA Interview is your personal AI career assistant, transforming your job interview preparation from solo, time-consuming efforts to a co-piloted journey with a seasoned AI interview assistant at the helm. Prepare smart with real interview questions, realistic AI avatars, and actionable feedback, powered by AI models trained by Stanford researchers.
 
@@ -28,6 +30,17 @@ We offer detailed interview guides for various roles:
 * [Product Manager Interview Guide](https://www.amainterview.ai/interview-guide/product-manager) - Learn to ace product strategy, prioritization, and execution interviews
 * [Financial Analyst Interview Guide](https://www.amainterview.ai/interview-guide/financial-analyst) - Prepare for financial modeling, valuation, and market analysis questions
 * [UI/UX Designer Interview Guide](https://www.amainterview.ai/interview-guide/UIUX-design) - Master design thinking, user research, and portfolio presentation
+
+## Interview Guide
+
+| Position | Company | Interview Guide Link | Date Posted |
+|----------|---------|---------------------|-------------|
+| Software Engineer | - | [Software Engineer Interview Guide](https://www.amainterview.ai/interview-guide/software-engineer) | Apr 11 |
+| Data Scientist | - | [Data Scientist Interview Guide](https://www.amainterview.ai/interview-guide/data-scientist) | Apr 11 |
+| Data Engineer | - | [Data Engineer Interview Guide](https://www.amainterview.ai/interview-guide/data-engineer) | Apr 10 |
+| Product Manager | - | [Product Manager Interview Guide](https://www.amainterview.ai/interview-guide/product-manager) | Apr 10 |
+| Financial Analyst | - | [Financial Analyst Interview Guide](https://www.amainterview.ai/interview-guide/financial-analyst) | Apr 10 |
+| UI/UX Designer | - | [UI/UX Designer Interview Guide](https://www.amainterview.ai/interview-guide/UIUX-design) | Apr 9 |
 
 ## Key Features
 
