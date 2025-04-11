@@ -20,16 +20,6 @@ This repository provides comprehensive interview preparation resources for vario
 
 AMA Interview is your personal AI career assistant, transforming your job interview preparation from solo, time-consuming efforts to a co-piloted journey with a seasoned AI interview assistant at the helm. Prepare smart with real interview questions, realistic AI avatars, and actionable feedback, powered by AI models trained by Stanford researchers.
 
-## Interview Preparation Guides
-
-We offer detailed interview guides for various roles:
-
-* [Software Engineer Interview Guide](https://www.amainterview.ai/interview-guide/software-engineer) - Master data structures, algorithms, system design, and OOP principles
-* [Data Scientist Interview Guide](https://www.amainterview.ai/interview-guide/data-scientist) - Excel in statistical analysis, machine learning, and data visualization interviews
-* [Data Engineer Interview Guide](https://www.amainterview.ai/interview-guide/data-engineer) - Prepare for questions on data pipelines, ETL processes, and big data technologies
-* [Product Manager Interview Guide](https://www.amainterview.ai/interview-guide/product-manager) - Learn to ace product strategy, prioritization, and execution interviews
-* [Financial Analyst Interview Guide](https://www.amainterview.ai/interview-guide/financial-analyst) - Prepare for financial modeling, valuation, and market analysis questions
-* [UI/UX Designer Interview Guide](https://www.amainterview.ai/interview-guide/UIUX-design) - Master design thinking, user research, and portfolio presentation
 
 ## Interview Guide
 
